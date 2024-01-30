@@ -1,0 +1,3 @@
+[submodule "default-vscode"]
+	path = default-vscode
+	url = https://github.com/cmckibben/default-vscode
